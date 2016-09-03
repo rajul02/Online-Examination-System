@@ -1,0 +1,19 @@
+body{
+  
+  background: repeating-linear-gradient(
+  -45deg,
+   transparent,
+  #A9A9A9,
+   transparent 1px,
+  #FFFFFF,
+  #FFFFFF 10px
+
+);
+
+.dv{
+	
+}
+
+
+
+}
